@@ -38,4 +38,4 @@ Minha especialidade é **Python**, tendo desenvolvido diversas integrações ent
 
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/aluizgc/)
+- 💼 <a href="https://www.linkedin.com/in/aluizgc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  

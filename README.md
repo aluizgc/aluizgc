@@ -22,10 +22,10 @@ Minha especialidade é **Python**, tendo desenvolvido diversas integrações ent
 <table>
   <tr>
     <td align="center"><img src="imgs/python-svgrepo-com.svg" width="90px"/><br>Python</td>
+    <td align="center"><img src="imgs/ubuntu-svgrepo-com.svg" width="90px"/><br>Linux</td>
+    <td align="center"><img src="imgs/aws-svgrepo-com.svg" width="90px"/><br>AWS</td>
     <td align="center"><img src="imgs/postgresql-svgrepo-com.svg" width="90px"/><br>PostgreSQL</td>
     <td align="center"><img src="imgs/oracle-6-logo-svgrepo-com.svg" width="90px"/><br>Oracle</td>
-    <td align="center"><img src="imgs/aws-svgrepo-com.svg" width="90px"/><br>AWS</td>
-    <td align="center"><img src="imgs/ubuntu-svgrepo-com.svg" width="90px"/><br>Linux</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="90px"/><br>Bash</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="90px"/><br>Docker</td>
   </tr>

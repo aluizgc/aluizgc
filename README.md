@@ -14,7 +14,7 @@ Minha especialidade é **Python**, tendo desenvolvido diversas integrações ent
 💻 **Engenheiro de Dados** no **Grupo Oscar**, com experiência em **AWS**.  
 🐍 Especialista em **Python**, com diversas automações, RPAs e integrações entre APIs e bancos de dados (**Redshift, PostgreSQL, Oracle, Athena**).  
 📊 Trabalho com **dbt** para modelagem de dados e **Power BI** para dashboards.  
-🚀 Sempre aprendendo e buscando novos desafios em tecnologia e engenharia de dados.  
+
 
 
 ## 💾 Tecnologias & Ferramentas
